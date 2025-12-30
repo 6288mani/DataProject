@@ -1,2 +1,2 @@
 # DataProject
-F:/DataProject/Daigram/AzureProjectDataFlow.drawio.svg
+<img src="docs/AzureProjectDataFlow.drawio.svg" width="800" alt="Architecture Diagram">
