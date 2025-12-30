@@ -1,2 +1,2 @@
 # DataProject
-<img src="docs/AzureProjectDataFlow.drawio.svg">
+![Architecture](docs/AzureProjectDataFlow.drawio.svg)
