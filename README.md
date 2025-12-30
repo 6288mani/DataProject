@@ -1,2 +1,2 @@
 # DataProject
-![Architecture](docs/AzureProjectDataFlow.drawio.svg)
+![Architecture](docs/project_test.webp)
