@@ -1,3 +1,2 @@
 # DataProject
-![Architecture](docs/AzureProjectDataFlow.drawio.svg)
-![DataFlow](docs/Azure-DBT.svg)
+![Architecture](docs/Azure-DBT.svg)
